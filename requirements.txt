@@ -1,0 +1,7 @@
+streamlit
+spacy
+nltk
+PyMuPDF
+reportlab
+matplotlib
+wordcloud
