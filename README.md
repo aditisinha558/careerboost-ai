@@ -1,7 +1,7 @@
 
-# CareerBoost AI — Full (Streamlit-ready)
+# CareerBoost AI 
 
-This is an upgraded, portfolio-ready version of CareerBoost AI with the following features:
+This is an portfolio-ready CareerBoost AI with the following features:
 - Upload Resume (PDF) or paste plain text.
 - Paste Job Description.
 - ATS keyword match and match-rate score (keyword match & skill gap).
